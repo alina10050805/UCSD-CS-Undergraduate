@@ -107,7 +107,7 @@
     <tbody>
         <tr>
             <td rowspan=2>Summer Section II 2022</td>
-            <td>CSE 101</td>
+            <td><a href="https://github.com/alina10050805/CSE-101-SummerII-2022">CSE 101</a></td>
             <td>Design & Analysis of Algorithm</td>
             <td>Braun, Oliver</td>
         </tr>
@@ -120,17 +120,17 @@
     <tbody>
         <tr>
             <td rowspan=4>Fall 2022</td>
-            <td>CSE 110</td>
+            <td><a href="https://github.com/alina10050805/CSE-110-Fall-2022">CSE 110</a></td>
             <td>Software Engineering</td>
             <td>Powell, Thomas Allan</td>
         </tr>
         <tr>
-            <td>CSE 158</td>
+            <td><a href="https://github.com/alina10050805/CSE-158-Fall-2022">CSE 158</a></td>
             <td>Recommender Sys&Web Mining</td>
             <td>McAuley, Julian John</td>
         </tr>
         <tr>
-            <td>COGS 108</td>
+            <td><a href="https://github.com/alina10050805/COGS_108">COGS 108</a></td>
             <td>Data Science in Practice</td>
             <td>Fleischer, Jason G</td>
         </tr>
@@ -143,7 +143,7 @@
     <tbody>
         <tr>
             <td rowspan=3>Winter 2023</td>
-            <td>CSE 132A</td>
+            <td><a href="https://github.com/alina10050805/CSE-132A-Winter-2023">CSE 132A</a></td>
             <td>Database System Principles</td>
             <td>Vianu, Victor Dan</td>
         </tr>
@@ -153,7 +153,7 @@
             <td>Ramamoorthi, Ravi</td>
         </tr>
         <tr>
-            <td>MATH 189</td>
+            <td><a href="https://github.com/alina10050805/MATH-189-Winter-2023">MATH 189</a></td>
             <td>Data Analysis and Inference</td>
             <td>Zhou, Wenxin</td>
         </tr>
