@@ -6,7 +6,7 @@
 
 **Intended Degree:** Bachelor of Science
 
-# Courses Calendar
+# Courses Calendar 
 
 <table>
     <thead>
